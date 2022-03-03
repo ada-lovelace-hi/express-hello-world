@@ -37,7 +37,7 @@ const html = `
         font-size: calc(62rem / 16);
       }
       body {
-        background: white;
+        background: #5152EC;
       }
       section {
         border-radius: 1em;
